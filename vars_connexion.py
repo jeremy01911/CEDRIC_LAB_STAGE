@@ -13,14 +13,14 @@ Variables de connexion :
 
 #Graph database Neo4j
 
-NEO4J_URL = "bolt://localhost:7687"
+NEO4J_URL = "**********"
 NEO4J_AUTH = ("neo4j", "password")
 
 
 #OpenAI
 
 MODEL_NAME = "gpt-4"
-API_KEY = 'sk-proj-zb8VRkJuFLtKrksp2wejT3BlbkFJABvWwRBLOw5yVXLUDCZQ' 
+API_KEY = "**********"
 
 #Llama 3 8B local
 
@@ -28,7 +28,7 @@ MODEL = 'llama3'
 
 #Llama 3 70B deepinfra
 
-API_TOKEN = 'mn0AEF9fswzK3XykSG2srLWaaCbh1CR0'
+API_TOKEN = "************"
 MODEL_ID = 'meta-llama/Llama-2-70b-chat-hf'
 
 
@@ -42,15 +42,15 @@ model = 'manu/sentence_croissant_alpha_v0.4'
 
 #adresse vectorstore
 
-vectorstore = "/Users/jeremytournellec/Desktop/testchroma"
+vectorstore = "/Users/jeremytournellec/votre/adresse"
 
 
 #adresse BDD
 
-BDD = '/Users/jeremytournellec/Desktop/data/BDD4'
+BDD = '/Users/votre/adresse'
 
 #dossier XML 
 
-chemin_LEGI = '/Users/jeremytournellec/Desktop/XML-DILA/legi/global/code_et_TNC_en_vigueur'
+chemin_LEGI = '/Users/votre/adresse'
 
 

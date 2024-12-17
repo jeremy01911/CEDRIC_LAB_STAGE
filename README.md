@@ -81,20 +81,6 @@ chat_bot_xml contient 3 dossiers importants et un script de connexion :
                           - il faut modifier les clefs des API des LLM (OPENAI et DEEPINFRA Llama) pour qu'ils puissent formuler une réponse.
 
 
-## chat_bot
-
-** autre version du projet moins aboutie et moins guidée**
-
-Avant de mettre au point chat_bot_xml, un chat_bot plus rudimentaire a été mis au point. Il contient également un pipeline RAG sémantique et un pipeline relationné utilisat une BDD relationnelle classique. Le code du projet est moins abouti. Ici on n'utilise pas la base LEGI et les XML. Les articles présents dans le vectorstore sont issus d'un document PDF du code civil qui a été divisé en 2000+ articles ainsi que des articles de plusieurs lois et décrets.
-
-1. ** QA ** : utilisation du pipeline
-2. ** peuplement vectorstore ** : run le script "main_vectorstore" pour le peupler
-3. ** peuplement BDD ** : run main_BDD pour la peupler
-4. ** datas ** : contient le vectorstore et la base de données relationnelle 
-
-
-
-
 
 ## auteurs et remerciements
 

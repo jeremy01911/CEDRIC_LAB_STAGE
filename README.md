@@ -61,13 +61,13 @@ Bien que les systèmes RAG soient performants avec des questions et contextes ri
 
 ### pipeline
 
-![Questions relationnelles et sémantiques](chat_bot_xml/images/questions.png)
+![Questions relationnelles et sémantiques](images/questions.png)
 
-![Pipeline RAG](chat_bot_xml/images/RAG2.png)
+![Pipeline RAG](images/RAG2.png)
 
-![Pipeline relationnel](chat_bot_xml/images/relational.png)
+![Pipeline relationnel](images/relational.png)
 
-![Système complet](chat_bot_xml/images/all2.png)
+![Système complet](images/all2.png)
 
 
 ### comment utiliser

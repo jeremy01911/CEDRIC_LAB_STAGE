@@ -54,7 +54,7 @@ Bien que les systèmes RAG soient performants avec des questions et contextes ri
 
 ** on propose donc ici un système avec deux pipelines fonctionnant en parallèle : **
 
-- un pipeline RAG classique basé sur l'embedding avec le modèle entence-croissant-LLM-base v0.4
+- un pipeline RAG classique basé sur l'embedding avec le modèle sentence-croissant-LLM-base v0.4
 - un pipeline relationnel qui extrait les références directesà des articles de droit dans les questions, et fourni au LLM le contenu des articles comme contexte. Les requêtes relationnelles sont menées dans une base de données graph construite avec Neo4j.
 
 
